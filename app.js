@@ -1,3 +1,10 @@
+/**
+ * Alinan iki sayiya dört islem uygulanir
+ * function.js yer alan fonksiyonlar export edilir,
+ * app.js de fonksiyonlar require ile alinir,
+ * Islem sonucu konsola yazdirilir.
+ */
+
 const operation= require("./function");
 
 const firstNumber = 10;
